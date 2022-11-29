@@ -1,0 +1,1 @@
+/Users/juhyung/.p10k.zsh

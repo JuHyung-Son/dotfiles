@@ -1,0 +1,1 @@
+/Users/juhyung/.zshrc
